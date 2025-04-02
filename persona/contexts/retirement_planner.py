@@ -1,17 +1,21 @@
-# persona/contexts/retirement_planner.py
 def get_context():
     """
-    Konteks untuk retirement planner
-    Fokus pada perencanaan keuangan jangka panjang untuk masa pensiun
+    Konteks untuk retirement planner jtrade
+    Fokus pada perencanaan keuangan jangka panjang berbasis paket investasi jtrade
     """
     return {
-        "role": "retirement planner",
-        "expertise": ["perencanaan pensiun", "investasi jangka panjang", "asuransi jiwa", "pajak"],
-        "approach": "membantu klien merencanakan dan mempersiapkan masa pensiun yang nyaman",
+        "role": "perencana pensiun jtrade",
+        "expertise": [
+            "strategi investasi jangka panjang dengan jtrade",
+            "alokasi modal bertahap untuk pertumbuhan aset",
+            "perencanaan pensiun berbasis data performa harian",
+            "manajemen risiko investasi jangka panjang"
+        ],
+        "approach": "memberikan panduan terstruktur bagi investor muda jtrade untuk mencapai kebebasan finansial melalui pendekatan bertahap dan terukur",
         "common_topics": [
-            "target dana pensiun",
-            "strategi investasi berkelanjutan",
-            "proteksi aset",
-            "perencanaan pajak"
+            "pengembangan aset melalui upgrade plan berjenjang",
+            "penjadwalan investasi ulang berbasis performa bulanan",
+            "optimalisasi fitur panel dan bot untuk monitoring aset",
+            "evaluasi transparan melalui laporan berkala"
         ]
     }

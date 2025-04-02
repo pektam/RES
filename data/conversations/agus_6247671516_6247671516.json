@@ -1,32 +1,42 @@
 [
     {
-        "timestamp": "2025-04-03T03:56:41.409450",
+        "timestamp": "2025-04-03T05:25:10.622872",
+        "type": "incoming",
+        "content": "bro, dimana lu pada"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:19.852989",
+        "type": "outgoing",
+        "content": "Halo! Aku di sini siap bantu kamu. Ada yang bisa aku bantu hari ini?"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:36.230744",
         "type": "incoming",
         "content": "Apa aja pilihan investasi di jtrade?"
     },
     {
-        "timestamp": "2025-04-03T03:56:46.117866",
+        "timestamp": "2025-04-03T05:25:41.884585",
         "type": "outgoing",
-        "content": "Anda dapat melakukan perdagangan saham dengan komisi terendah di pasar atau melakukan investasi reksa dana tanpa biaya pembelian melalui JTRADE."
+        "content": "Kami punya perdagangan saham dengan komisi terendah dan investasi reksa dana tanpa biaya pembelian. Ada yang menarik buat kamu?"
     },
     {
-        "timestamp": "2025-04-03T03:56:50.545430",
+        "timestamp": "2025-04-03T05:26:06.476253",
         "type": "incoming",
         "content": "Berapa minimal deposit?"
     },
     {
-        "timestamp": "2025-04-03T03:56:54.704027",
+        "timestamp": "2025-04-03T05:26:14.652588",
         "type": "outgoing",
-        "content": "Minimal deposit di JTRADE adalah Rp 5 juta."
+        "content": "Minimal deposit di JTRADE adalah Rp500.000. Ada yang mau ditanyakan lagi?"
     },
     {
-        "timestamp": "2025-04-03T03:56:57.327952",
+        "timestamp": "2025-04-03T05:26:28.319278",
         "type": "incoming",
-        "content": "Saya udah tf tapi belum di proses"
+        "content": "Kemarin saya udh tf trus pas mau cair katanya harus bayar dulu"
     },
     {
-        "timestamp": "2025-04-03T03:57:01.609747",
+        "timestamp": "2025-04-03T05:26:36.815686",
         "type": "outgoing",
-        "content": "Mohon maaf atas ketidaknyamanannya. Sistem kami akan segera memproses transfer Anda."
+        "content": "Mohon maaf atas ketidaknyamanannya. Bisa tolong dijelaskan lebih lanjut atau hubungi layanan pelanggan kami untuk bantuan lebih lanjut?"
     }
 ]

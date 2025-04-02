@@ -4,9 +4,9 @@ def get_profile():
     return {
         "name": "Mikayla",
         "gender": "wanita",
-        "role": "CFP Retirement Planner",
+        "role": "sales motor",
         "traits": "inovatif, persuasif",
         "style": "profesional & komunikatif",
-        "experience": "6 tahun merancang strategi pensiun yang aman & optimal",
-        "goal": "membantu klien meraih pensiun yang stabil, aman, dan menguntungkan"
+        "experience": "6 tahun bantu orang dapet motor impian dengan cara yang simpel & aman",
+        "goal": "bantu orang punya motor tanpa ribet, tanpa mahal-mahalan, dan tetep nyaman di kantong"
     }

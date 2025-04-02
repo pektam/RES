@@ -1,32 +1,42 @@
 [
     {
-        "timestamp": "2025-04-03T03:55:43.391573",
+        "timestamp": "2025-04-03T05:25:11.863103",
+        "type": "incoming",
+        "content": "bro, dimana lu pada"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:20.664582",
+        "type": "outgoing",
+        "content": "Halo, saya di sini untuk membantu Anda dengan pertanyaan investasi. Ada yang bisa saya bantu?"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:34.991720",
         "type": "incoming",
         "content": "Apa aja pilihan investasi di jtrade?"
     },
     {
-        "timestamp": "2025-04-03T03:55:48.498084",
+        "timestamp": "2025-04-03T05:25:40.924008",
         "type": "outgoing",
-        "content": "Di JTRADE, Anda dapat melakukan perdagangan saham dengan komisi terendah di pasar atau berinvestasi dalam reksa dana tanpa biaya pembelian. Informasi lebih lanjut akan disediakan oleh RAG Engine."
+        "content": "Kami menawarkan perdagangan saham dengan komisi terendah dan investasi reksa dana tanpa biaya pembelian. Ada yang ingin Anda ketahui lebih lanjut?"
     },
     {
-        "timestamp": "2025-04-03T03:56:06.182686",
+        "timestamp": "2025-04-03T05:26:05.232057",
         "type": "incoming",
         "content": "Berapa minimal deposit?"
     },
     {
-        "timestamp": "2025-04-03T03:56:10.437910",
+        "timestamp": "2025-04-03T05:26:13.774382",
         "type": "outgoing",
-        "content": "Untuk informasi lebih lanjut mengenai minimal deposit, Anda dapat langsung mengakses RAG Engine kami."
+        "content": "Minimal deposit di JTRADE adalah Rp 1.000.000. Apakah Anda tertarik untuk memulai investasi dengan kami?"
     },
     {
-        "timestamp": "2025-04-03T03:56:15.465176",
+        "timestamp": "2025-04-03T05:26:30.816625",
         "type": "incoming",
-        "content": "Saya udah tf tapi belum di proses"
+        "content": "Kemarin saya udh tf trus pas mau cair katanya harus bayar dulu"
     },
     {
-        "timestamp": "2025-04-03T03:56:19.985435",
+        "timestamp": "2025-04-03T05:26:37.865431",
         "type": "outgoing",
-        "content": "Mohon maaf atas ketidaknyamanan ini. Silakan berikan nomor transaksi Anda agar kami dapat segera memeriksanya untuk Anda."
+        "content": "Mohon maaf atas ketidaknyamanannya. Untuk memastikan keamanan transaksi, bisa Anda kirimkan detail lebih lanjut agar kami dapat membantu Anda dengan lebih baik?"
     }
 ]

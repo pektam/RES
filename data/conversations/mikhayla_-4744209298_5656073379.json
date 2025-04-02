@@ -1,22 +1,7 @@
 [
     {
-        "timestamp": "2025-04-03T03:58:45.713036",
+        "timestamp": "2025-04-03T05:23:54.968371",
         "type": "incoming",
-        "content": "Maaf atas ketidaknyamanannya, boleh saya minta nomor transaksi transfer Anda untuk saya cek?"
-    },
-    {
-        "timestamp": "2025-04-03T03:59:04.500811",
-        "type": "outgoing",
-        "content": "Tentu, saya akan membantu Anda. Silakan berikan nomor transaksi transfernya."
-    },
-    {
-        "timestamp": "2025-04-03T03:59:21.002552",
-        "type": "incoming",
-        "content": "Tidak masalah, saya akan segera memeriksa status transfer Anda."
-    },
-    {
-        "timestamp": "2025-04-03T03:59:22.237703",
-        "type": "incoming",
-        "content": "Tentu, saya akan memeriksa nomor transaksi Anda segera. Silakan berikan nomornya."
+        "content": "Halo! Aku di sini siap bantu kamu. Ada yang bisa aku bantu soal investasi?"
     }
 ]

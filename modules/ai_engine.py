@@ -29,13 +29,13 @@ def generate_response(prompt, api_key, max_retries=3):
         try:
             # Gunakan API OpenAI untuk mendapatkan respons
             response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",  # Atau model lain yang diinginkan
+                model="gpt-4o",  # Atau model lain yang diinginkan
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": prompt}
                 ],
-                max_tokens=1000,
-                temperature=0.7
+                max_tokens=300,
+                temperature=0.6
             )
             
             # Ambil teks respons

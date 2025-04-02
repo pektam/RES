@@ -1,32 +1,42 @@
 [
     {
-        "timestamp": "2025-04-03T03:57:47.789130",
+        "timestamp": "2025-04-03T05:25:06.835389",
+        "type": "incoming",
+        "content": "bro, dimana lu pada"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:14.781180",
+        "type": "outgoing",
+        "content": "Hey bro, gue di sini siap bantuin kamu. Ada yang bisa dibantu?"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:37.555564",
         "type": "incoming",
         "content": "Apa aja pilihan investasi di jtrade?"
     },
     {
-        "timestamp": "2025-04-03T03:57:52.527015",
+        "timestamp": "2025-04-03T05:25:46.873237",
         "type": "outgoing",
-        "content": "Di JTRADE, Anda dapat melakukan stock trading dengan komisi terendah di pasar dan investasi reksa dana tanpa biaya pembelian. Informasi lebih lanjut akan disediakan oleh RAG Engine."
+        "content": "Di JTRADE, kamu bisa pilih stock trading dengan komisi terendah atau investasi di reksa dana tanpa biaya pembelian. Mau coba yang mana?"
     },
     {
-        "timestamp": "2025-04-03T03:58:07.036313",
+        "timestamp": "2025-04-03T05:26:02.681814",
         "type": "incoming",
         "content": "Berapa minimal deposit?"
     },
     {
-        "timestamp": "2025-04-03T03:58:10.996787",
+        "timestamp": "2025-04-03T05:26:09.875313",
         "type": "outgoing",
-        "content": "Anda dapat membuka akun dengan minimal deposit Rp 1 juta di JTRADE."
+        "content": "Minimal deposit di JTRADE cuma Rp100.000 aja. Mau mulai sekarang?"
     },
     {
-        "timestamp": "2025-04-03T03:58:15.479420",
+        "timestamp": "2025-04-03T05:26:32.118648",
         "type": "incoming",
-        "content": "Saya udah tf tapi belum di proses"
+        "content": "Kemarin saya udh tf trus pas mau cair katanya harus bayar dulu"
     },
     {
-        "timestamp": "2025-04-03T03:58:19.586227",
+        "timestamp": "2025-04-03T05:26:40.218551",
         "type": "outgoing",
-        "content": "Maaf atas ketidaknyamanan ini. Saya akan segera memeriksa status transfer Anda untuk diproses."
+        "content": "Wah, sepertinya ada kesalahpahaman nih. Di JTRADE, nggak ada biaya untuk cairin dana. Boleh cek lagi atau hubungi support kami ya!"
     }
 ]

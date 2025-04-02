@@ -1,7 +1,12 @@
 [
     {
-        "timestamp": "2025-04-03T03:59:15.962055",
+        "timestamp": "2025-04-03T05:23:41.302466",
         "type": "incoming",
-        "content": "Mohon maaf atas ketidaknyamanan ini. Saya akan segera menghubungi tim operasional untuk mempercepat prosesnya."
+        "content": "Halo! Saya di sini siap membantu. Ada yang bisa saya bantu soal investasi?"
+    },
+    {
+        "timestamp": "2025-04-03T05:24:00.688749",
+        "type": "outgoing",
+        "content": "Halo! Tentu, ada yang ingin kamu ketahui tentang investasi?"
     }
 ]

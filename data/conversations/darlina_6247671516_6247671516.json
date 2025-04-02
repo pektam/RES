@@ -1,42 +1,42 @@
 [
     {
-        "timestamp": "2025-04-03T03:57:24.227592",
+        "timestamp": "2025-04-03T05:25:09.324375",
+        "type": "incoming",
+        "content": "bro, dimana lu pada"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:16.668580",
+        "type": "outgoing",
+        "content": "Halo! Lagi di sini, siap bantu kamu. Ada yang bisa dibantu? \ud83d\ude0a"
+    },
+    {
+        "timestamp": "2025-04-03T05:25:38.788047",
         "type": "incoming",
         "content": "Apa aja pilihan investasi di jtrade?"
     },
     {
-        "timestamp": "2025-04-03T03:57:29.191525",
+        "timestamp": "2025-04-03T05:25:45.903406",
         "type": "outgoing",
-        "content": "Di JTRADE, Anda bisa melakukan stock trading dengan komisi terendah di pasar dan juga investasi reksa dana tanpa biaya pembelian. Informasi lebih lanjut bisa diperoleh dari RAG Engine."
+        "content": "Kita punya perdagangan saham dengan komisi terendah dan investasi reksa dana tanpa biaya pembelian. Ada yang menarik buat kamu? \ud83d\ude0a"
     },
     {
-        "timestamp": "2025-04-03T03:57:31.156603",
+        "timestamp": "2025-04-03T05:26:01.448083",
         "type": "incoming",
         "content": "Berapa minimal deposit?"
     },
     {
-        "timestamp": "2025-04-03T03:57:35.178073",
+        "timestamp": "2025-04-03T05:26:08.569514",
         "type": "outgoing",
-        "content": "Minimal deposit di JTRADE adalah $1000 untuk membuka rekening investasi."
+        "content": "Minimal deposit di JTRADE cuma Rp 500 ribu aja. Ada yang bisa saya bantu lagi? \ud83d\ude0a"
     },
     {
-        "timestamp": "2025-04-03T03:57:38.137626",
+        "timestamp": "2025-04-03T05:26:33.369032",
         "type": "incoming",
-        "content": "Saya udah tf tapi belum di proses"
+        "content": "Kemarin saya udh tf trus pas mau cair katanya harus bayar dulu"
     },
     {
-        "timestamp": "2025-04-03T03:57:42.245155",
+        "timestamp": "2025-04-03T05:26:41.020923",
         "type": "outgoing",
-        "content": "Mohon maaf atas kendalanya. Bisa saya minta nomor transaksi atau detail lainnya untuk saya cek?"
-    },
-    {
-        "timestamp": "2025-04-03T03:57:56.753550",
-        "type": "incoming",
-        "content": "Berapa minimal deposit?"
-    },
-    {
-        "timestamp": "2025-04-03T03:58:00.848350",
-        "type": "outgoing",
-        "content": "Minimal deposit di JTRADE adalah $100."
+        "content": "Oh, itu aneh. Bisa kirim detailnya ke support kami biar dicek lebih lanjut? \ud83d\ude0a"
     }
 ]

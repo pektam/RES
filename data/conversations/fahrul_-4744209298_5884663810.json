@@ -1,7 +1,12 @@
 [
     {
-        "timestamp": "2025-04-03T03:59:17.212356",
+        "timestamp": "2025-04-03T05:23:46.335670",
         "type": "incoming",
-        "content": "Maaf atas ketidaknyamanan ini, saya akan segera cek dan pastikan agar transfer Anda segera diproses."
+        "content": "Halo! Saya di sini untuk membantu kamu dengan investasi. Ada yang bisa saya bantu?"
+    },
+    {
+        "timestamp": "2025-04-03T05:24:10.598269",
+        "type": "outgoing",
+        "content": "Halo! Tentu, ada yang ingin kamu ketahui lebih lanjut tentang investasi saham atau reksa dana?"
     }
 ]

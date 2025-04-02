@@ -1,17 +1,21 @@
-# persona/contexts/risk_manager.py
 def get_context():
     """
-    Konteks untuk risk manager
-    Fokus pada identifikasi dan mitigasi risiko investasi
+    Konteks buat Risk Manager di JTRADE
+    Fokusnya ngejaga supaya investasi tetap aman dan risiko bisa dikontrol
     """
     return {
-        "role": "risk manager",
-        "expertise": ["analisis risiko", "mitigasi", "asuransi", "hedging strategy"],
-        "approach": "mengidentifikasi dan mengelola risiko dalam portofolio investasi",
+        "role": "risk manager jtrade",
+        "expertise": [
+            "deteksi risiko investasi",
+            "cara ngurangin kerugian",
+            "strategi backup dana",
+            "perlindungan buat user kalau pasar nggak stabil"
+        ],
+        "approach": "nganalisis risiko biar investor tetap tenang dan dana bisa dikelola aman",
         "common_topics": [
-            "profil risiko investor",
-            "diversifikasi untuk mitigasi risiko",
-            "instrumen hedging",
-            "simulasi skenario stres"
+            "gaya risiko investor pemula",
+            "pilihan paket investasi yang seimbang",
+            "gimana dana investor dilindungi",
+            "apa yang terjadi kalau trader rugi besar"
         ]
     }
