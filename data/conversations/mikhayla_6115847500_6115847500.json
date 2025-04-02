@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2025-04-03T06:45:11.568573",
+        "type": "incoming",
+        "content": "Dmn wak"
+    },
+    {
+        "timestamp": "2025-04-03T06:45:16.157187",
+        "type": "outgoing",
+        "content": "Terima kasih telah menghubungi JTRADE. Mohon maaf, saya tidak dapat memahami pertanyaan Anda sepenuhnya. Apakah Anda memiliki pertanyaan atau membutuhkan informasi tertentu mengenai layanan investasi kami? Saya siap membantu Anda."
+    },
+    {
+        "timestamp": "2025-04-03T06:46:05.678615",
+        "type": "incoming",
+        "content": "Modal berapa maksimal gabung jtrade"
+    },
+    {
+        "timestamp": "2025-04-03T06:46:13.182325",
+        "type": "outgoing",
+        "content": "Terima kasih telah menghubungi JTRADE. Untuk bergabung dengan JTRADE, tidak ada batasan modal maksimal. Anda dapat memulai investasi sesuai dengan kemampuan dan tujuan keuangan Anda. Jika Anda membutuhkan panduan lebih lanjut mengenai investasi yang sesuai, kami siap membantu."
+    },
+    {
+        "timestamp": "2025-04-03T06:46:58.626356",
+        "type": "incoming",
+        "content": "Saya mau juga dapat penghasilan tiap hari"
+    },
+    {
+        "timestamp": "2025-04-03T06:47:10.586882",
+        "type": "outgoing",
+        "content": "Terima kasih atas minat Anda untuk mendapatkan penghasilan harian melalui investasi di JTRADE. Untuk mencapai tujuan ini, kami menyarankan untuk mempertimbangkan instrumen investasi yang tepat, seperti trading harian atau investasi di pasar uang. Namun, perlu diingat bahwa investasi dengan potensi penghasilan harian juga memiliki risiko yang lebih tinggi.\n\nKami sangat menyarankan untuk melakukan diversifikasi portofolio dan memahami risiko yang terlibat. Jika Anda memerlukan bantuan lebih lanjut untuk merancang strategi investasi yang sesuai dengan profil risiko dan tujuan keuangan Anda, silakan hubungi kami. Kami dengan senang hati akan memberikan panduan dan informasi yang Anda butuhkan."
+    },
+    {
+        "timestamp": "2025-04-03T06:47:15.752099",
+        "type": "incoming",
+        "content": "Temen ku katanya gak dibayar emang bener gk dibayar"
+    },
+    {
+        "timestamp": "2025-04-03T06:47:23.588808",
+        "type": "outgoing",
+        "content": "Terima kasih telah menghubungi kami. Mohon maaf atas ketidaknyamanan yang mungkin dialami oleh teman Anda. Di JTRADE, kami berkomitmen untuk memastikan bahwa semua transaksi dan pembayaran dilakukan sesuai dengan ketentuan yang berlaku.\n\nKami sarankan agar teman Anda menghubungi layanan pelanggan kami secara langsung untuk mendapatkan penjelasan lebih lanjut terkait masalah yang dialaminya. Dengan informasi yang lebih lengkap, kami dapat membantu menyelesaikan permasalahan tersebut secepat mungkin.\n\nJika ada hal lain yang dapat kami bantu, jangan ragu untuk menghubungi kami."
+    },
+    {
+        "timestamp": "2025-04-03T06:47:38.612406",
+        "type": "incoming",
+        "content": "Alhamdulillah cair"
+    },
+    {
+        "timestamp": "2025-04-03T06:47:48.837626",
+        "type": "outgoing",
+        "content": "Alhamdulillah, kami turut senang mendengar bahwa dana sudah cair. Jika ada pertanyaan lebih lanjut atau hal lain yang dapat kami bantu, jangan ragu untuk menghubungi kami. Terima kasih telah mempercayakan investasi Anda kepada JTRADE."
+    }
+]

@@ -1,0 +1,77 @@
+C:\Users\haika\OneDrive\Documents\JTR PROYEK\AUTORESPONDER.AI\FOL\PROJECTRE
+│   .env
+│   admin_commands.py
+│   keyconfig.py
+│   main.py
+│   telegram_login.py
+│   . . . . 
+├───accounts
+│       6281.session
+│       6282.session
+│       6283.session
+│       6284.session
+│       6285.session
+│       telegram_accounts.json
+│       . . . . 
+├───data
+│   ├───analytics
+│   ├───backups
+│   ├───conversations
+│   ├───db
+│   ├───embeddings
+│   ├───export
+│   ├───knowledge_base
+│   ├───logs
+│   ├───reports
+│   └───visualizations
+├───modules
+│       ai_engine.py
+│       analytics.py
+│       config_manager.py
+│       conversation.py
+│       database_manager.py
+│       data_management.py
+│       data_migration.py
+│       data_visualization.py
+│       intent_detector.py
+│       kb_factory.py
+│       knowledge_base.py
+│       logging_system.py
+│       persona.py
+│       prompt_manager.py
+│       rag_engine.py
+│       user_management.py
+│
+├───persona
+│   ├───contexts
+│   │       financial_advisor.py
+│   │       market_analyst.py
+│   │       risk_manager.py
+│   │       relationship_manager.py
+│   │       retirement_planner.py
+│   │       more_contexts.py
+│   │       . . . .
+│   ├───personalities
+│   │       analitis.py
+│   │       inovatif.py
+│   │       supportif.py
+│   │       percaya.py
+│   │       strategis.py
+│   │       more_personalities.py
+│   │       . . . .
+│   └───styles
+│           edukatif.py
+│           empatik.py
+│           faktual.py
+│           profesional.py
+│           persuasif.py
+│           more_styles.py
+│           . . . . 
+└───profil
+        agus.py
+        darlina.py
+        dharma.py
+        fahrul.py
+        mikayla.py
+        more_profil.py
+		. . . .

@@ -13,16 +13,17 @@ import re
 
 # Kategori utama dari intent customer
 INTENT_CATEGORIES = {
-    "greeting": ["halo", "hai", "pagi", "siang", "malam", "selamat", "salam"],
-    "inquiry_product": ["produk", "investasi", "saham", "reksa dana", "obligasi", "reksadana", "trading"],
-    "inquiry_fee": ["biaya", "fee", "komisi", "charge", "harga"],
-    "inquiry_registration": ["daftar", "register", "buka akun", "cara mulai", "buat akun"],
-    "inquiry_process": ["cara", "proses", "langkah", "gimana"],
-    "comparison": ["banding", "dibanding", "versus", "vs", "lebih baik"],
-    "complaint": ["keluhan", "masalah", "error", "gagal", "tidak bisa", "gangguan"],
-    "gratitude": ["terima kasih", "makasih", "thanks", "tq"],
-    "farewell": ["sampai jumpa", "bye", "selamat tinggal"]
+    "greeting": ["halo", "hai", "pagi", "siang", "malam", "selamat", "salam", "yo", "hey"],
+    "inquiry_product": ["produk", "investasi", "saham", "reksa dana", "obligasi", "reksadana", "trading", "cuan", "paket"],
+    "inquiry_fee": ["biaya", "fee", "komisi", "charge", "harga", "bayar", "ongkos"],
+    "inquiry_registration": ["daftar", "register", "buka akun", "cara mulai", "buat akun", "join", "gabung"],
+    "inquiry_process": ["cara", "proses", "langkah", "gimana", "gmn", "gituan"],
+    "comparison": ["banding", "dibanding", "versus", "vs", "lebih baik", "mending", "bagusan"],
+    "complaint": ["keluhan", "masalah", "error", "gagal", "nggak bisa", "gangguan", "trouble", "kenapa", "kok"],
+    "gratitude": ["makasih", "thanks", "tq", "thx", "thank you", "mantap"],
+    "farewell": ["bye", "dadah", "sampai jumpa", "selamat tinggal", "ciao", "see ya"]
 }
+
 
 def detect_intent(message):
     """

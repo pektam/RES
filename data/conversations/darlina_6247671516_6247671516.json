@@ -1,42 +1,92 @@
 [
     {
-        "timestamp": "2025-04-03T05:25:09.324375",
+        "timestamp": "2025-04-03T06:34:31.237942",
         "type": "incoming",
-        "content": "bro, dimana lu pada"
+        "content": "Beb"
     },
     {
-        "timestamp": "2025-04-03T05:25:16.668580",
+        "timestamp": "2025-04-03T06:34:38.225543",
         "type": "outgoing",
-        "content": "Halo! Lagi di sini, siap bantu kamu. Ada yang bisa dibantu? \ud83d\ude0a"
+        "content": "Yoo, ada apa nih? Lagi mau bahas apa kita?"
     },
     {
-        "timestamp": "2025-04-03T05:25:38.788047",
+        "timestamp": "2025-04-03T06:36:43.826103",
         "type": "incoming",
-        "content": "Apa aja pilihan investasi di jtrade?"
+        "content": "Berapa modal investasi jtrade"
     },
     {
-        "timestamp": "2025-04-03T05:25:45.903406",
+        "timestamp": "2025-04-03T06:36:53.284649",
         "type": "outgoing",
-        "content": "Kita punya perdagangan saham dengan komisi terendah dan investasi reksa dana tanpa biaya pembelian. Ada yang menarik buat kamu? \ud83d\ude0a"
+        "content": "Wih, kalo di JTRADE sih fleksibel banget, bro. Kamu bisa mulai dengan modal kecil, berapa aja yang kamu siapin. Yang penting konsisten dan paham cara maennya! Mau coba stock trading atau mutual funds juga bisa, tanpa biaya pembelian. Cuan santuy, kan?"
     },
     {
-        "timestamp": "2025-04-03T05:26:01.448083",
+        "timestamp": "2025-04-03T06:38:30.131174",
         "type": "incoming",
-        "content": "Berapa minimal deposit?"
+        "content": "Saya ada uang 999rb bisa investasi katanya plan spesial kak my"
     },
     {
-        "timestamp": "2025-04-03T05:26:08.569514",
+        "timestamp": "2025-04-03T06:38:35.570586",
         "type": "outgoing",
-        "content": "Minimal deposit di JTRADE cuma Rp 500 ribu aja. Ada yang bisa saya bantu lagi? \ud83d\ude0a"
+        "content": "Wah, 999 ribu udah bisa banget buat mulai investasi, bro! Di JTRADE, kamu bisa mulai dengan stock trading atau mutual funds. Yang asyik, gak ada biaya pembelian buat mutual funds. Jadi, uang kamu bisa langsung kerja buat cari cuan. Plan spesialnya bisa bantu kamu pilih investasi yang cocok. Yuk, mulai aja!"
     },
     {
-        "timestamp": "2025-04-03T05:26:33.369032",
+        "timestamp": "2025-04-03T06:39:12.252918",
         "type": "incoming",
-        "content": "Kemarin saya udh tf trus pas mau cair katanya harus bayar dulu"
+        "content": "Tapi saya udah join pas minta pencairan dana kok gak cair ya"
     },
     {
-        "timestamp": "2025-04-03T05:26:41.020923",
+        "timestamp": "2025-04-03T06:39:21.266043",
         "type": "outgoing",
-        "content": "Oh, itu aneh. Bisa kirim detailnya ke support kami biar dicek lebih lanjut? \ud83d\ude0a"
+        "content": "Waduh, bro! Bisa jadi ada beberapa alasan tuh. Cek dulu, biasanya masalah di verifikasi data atau ada dokumen yang kurang lengkap. Kalau semua udah beres tapi masih belum cair, coba kontak customer service JTRADE biar dibantu lebih lanjut. Jangan lupa cek juga syarat dan ketentuan pencairan, siapa tahu ada yang kelewat. Semangat, bro!"
+    },
+    {
+        "timestamp": "2025-04-03T06:39:39.414899",
+        "type": "incoming",
+        "content": "Malah diminta uang lagi pas cair."
+    },
+    {
+        "timestamp": "2025-04-03T06:39:51.251508",
+        "type": "outgoing",
+        "content": "Wah, hati-hati tuh, bro! Biasanya kalau ada yang minta uang tambahan buat pencairan, bisa jadi itu modus penipuan. Mending langsung cek ke customer service resmi JTRADE buat konfirmasi. Jangan asal transfer aja, ya. Stay safe!"
+    },
+    {
+        "timestamp": "2025-04-03T06:40:35.521674",
+        "type": "incoming",
+        "content": "Tapi alhamdulillah, saya kira tertipu.\nTernyata saya benar cair 5juta masuk rekening"
+    },
+    {
+        "timestamp": "2025-04-03T06:40:42.822273",
+        "type": "outgoing",
+        "content": "Wah, syukurlah kalau gitu! Berarti aman ya, bro. Selalu waspada aja, biar nggak kena tipu yang beneran. Sekarang tinggal nikmatin hasilnya, deh. Cuan udah di tangan! \ud83d\ude0e\u270c\ufe0f"
+    },
+    {
+        "timestamp": "2025-04-03T06:41:41.080842",
+        "type": "incoming",
+        "content": "Siap kk, jadi lebih semangat aku investasi di jtrade"
+    },
+    {
+        "timestamp": "2025-04-03T06:41:49.143006",
+        "type": "outgoing",
+        "content": "Mantap, bro! Semangat terus investasinya. Di JTRADE, kita bisa main saham dengan komisi rendah atau pilih reksa dana tanpa biaya beli. Tinggal pilih yang cocok buat kamu! \ud83d\ude80\ud83d\udcb8"
+    },
+    {
+        "timestamp": "2025-04-03T06:42:28.616630",
+        "type": "incoming",
+        "content": "Rencana besok mau tambah modal jadi 1.999.000"
+    },
+    {
+        "timestamp": "2025-04-03T06:42:35.704544",
+        "type": "outgoing",
+        "content": "Wih, keren nih! Nambah modal bisa bikin portofolio makin mantap. Pastikan diversifikasi biar risikonya seimbang, ya. Gaskeun! \ud83d\udcaa\ud83d\udcc8"
+    },
+    {
+        "timestamp": "2025-04-03T06:42:50.936572",
+        "type": "incoming",
+        "content": "biar dapat pencairan 20juta bisa buat dp mobil hehe"
+    },
+    {
+        "timestamp": "2025-04-03T06:43:03.313647",
+        "type": "outgoing",
+        "content": "Wah, mantap tuh rencananya! Buat dapetin pencairan segitu, coba fokus di investasi yang punya potensi return tinggi tapi tetep sesuai profil risikomu. Jangan lupa atur strategi keluar yang pas biar cuannya aman. Semangat, bro! \ud83d\ude97\ud83d\udcb8"
     }
 ]

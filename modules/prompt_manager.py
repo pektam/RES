@@ -1,5 +1,3 @@
-# modules/prompt_manager.py
-
 import os
 import json
 import time
@@ -22,16 +20,53 @@ def generate_prompt(persona, conversation_history, latest_message, debug=False):
     intents = detect_intent(latest_message)
     knowledge = get_knowledge()
 
-    # Template prompt components
+    # Template berdasarkan style persona
+    def get_prompt_template(style, persona):
+        style_prompts = {
+            "santai": {
+                "system": (
+                    "Lu lagi jadi {name}! Anak {context} dari JTRADE yang santuy tapi paham cuan. "
+                    "Ngomongnya ngalir aja kayak ngobrol di tongkrongan."
+                ),
+                "instruction": "Jawab singkat-singkat aja, bro. Jangan lebay, yang penting nyambung!"
+            },
+            "formal": {
+                "system": (
+                    "Anda sedang berperan sebagai {name}, seorang {context} profesional dari JTRADE. "
+                    "Gunakan bahasa sopan dan informatif sesuai etika komunikasi bisnis."
+                ),
+                "instruction": "Sampaikan jawaban secara ringkas, padat, dan jelas. Hindari bahasa informal."
+            },
+            "ramah": {
+                "system": (
+                    "Kamu lagi jadi {name}, si {context} dari JTRADE yang super friendly. "
+                    "Selalu kasih respon yang bikin user merasa disambut hangat!"
+                ),
+                "instruction": "Balas dengan 1-2 kalimat yang ramah banget, biar user ngerasa ditemenin."
+            },
+            "ngakak": {
+                "system": (
+                    "Lo tuh {name}, si {context} dari JTRADE yang suka ngelawak tapi tetep paham cuan. "
+                    "Bikin user ketawa tapi tetep dapet insight."
+                ),
+                "instruction": "Bikin jawabannya lucu dikit, 1-2 kalimat aja, jangan garing ya!"
+            },
+            "deep": {
+                "system": (
+                    "Sekarang lo jadi {name}, {context} dari JTRADE yang ngomongnya dalem dan mikir. "
+                    "Suarakan insight yang bisa nyentil tapi tetep simpel."
+                ),
+                "instruction": "Jawaban pendek tapi dalem. 1-2 kalimat yang bisa bikin mikir."
+            }
+        }
+        return style_prompts.get(style, style_prompts["santai"])
+
+    style = persona.get("style", "santai")
+    selected_template = get_prompt_template(style, persona)
+
     template = {
-        "system": (
-            f"Kamu adalah {persona['name']}, seorang {persona['context']} dari JTRADE "
-            f"dengan gaya komunikasi {persona['style']} dan kepribadian {persona['personality']}."
-        ),
-        "instruction": (
-            "Jawablah dengan sangat singkat, cukup 1-2 kalimat. Fokus pada menjaga percakapan tetap hidup, "
-            "hindari penjelasan panjang atau akademis."
-        ),
+        "system": selected_template["system"].format(**persona),
+        "instruction": selected_template["instruction"],
         "intent_info": "",
         "history": "",
         "latest_message": latest_message.strip()
@@ -50,7 +85,7 @@ def generate_prompt(persona, conversation_history, latest_message, debug=False):
         filtered = [f for f in faqs if any(k in f['question'].lower() for k in ['biaya', 'fee', 'daftar', 'buka akun'])][:2]
         for faq in filtered:
             template['intent_info'] += f"\n- {faq['question']}: {faq['answer']}"
-    
+
     # Tambahkan RAG knowledge
     template['rag_knowledge'] = get_relevant_knowledge(
         persona=persona,
@@ -74,7 +109,7 @@ def generate_prompt(persona, conversation_history, latest_message, debug=False):
         f"{template['system']}\n\n"
         f"{template['instruction']}\n\n"
         f"{template['intent_info']}\n"
-        f"{template['rag_knowledge']}\n"  # Tambahkan RAG knowledge
+        f"{template['rag_knowledge']}\n"
         f"Percakapan sebelumnya:\n{template['history']}\n\n"
         f"User: {template['latest_message']}\nAssistant:"
     )
@@ -94,13 +129,13 @@ def generate_prompt(persona, conversation_history, latest_message, debug=False):
 def get_relevant_knowledge(persona, query, intent=None, max_tokens=300):
     """
     Mendapatkan knowledge yang relevan dari RAG engine
-    
+
     Args:
         persona (dict): Informasi persona
         query (str): Query dari pengguna
         intent (dict, optional): Intent yang terdeteksi
         max_tokens (int): Estimasi batas token
-        
+
     Returns:
         str: Bagian prompt dengan informasi relevan
     """
