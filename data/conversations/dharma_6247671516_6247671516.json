@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2025-04-03T03:53:12.135918",
+        "type": "incoming",
+        "content": "Pagi bang"
+    },
+    {
+        "timestamp": "2025-04-03T03:53:16.552223",
+        "type": "outgoing",
+        "content": "Selamat pagi juga, ada yang bisa saya bantu?"
+    },
+    {
+        "timestamp": "2025-04-03T03:53:36.995000",
+        "type": "incoming",
+        "content": "Apa aja pilihan investasi di jtrade bang darma?"
+    },
+    {
+        "timestamp": "2025-04-03T03:53:41.137559",
+        "type": "outgoing",
+        "content": "Di JTRADE, Anda bisa melakukan stock trading dengan komisi terendah di pasar atau berinvestasi di mutual funds tanpa biaya pembelian. Lebih tertarik pada yang mana?"
+    },
+    {
+        "timestamp": "2025-04-03T03:53:49.760075",
+        "type": "incoming",
+        "content": "Nama abg darma kan?"
+    },
+    {
+        "timestamp": "2025-04-03T03:53:53.817863",
+        "type": "outgoing",
+        "content": "Saya Dharma Wicaksono, investment advisor dari JTRADE. Ada yang bisa saya bantu?"
+    },
+    {
+        "timestamp": "2025-04-03T03:54:18.600466",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:54:22.633241",
+        "type": "outgoing",
+        "content": "Untuk informasi tentang minimal deposit, Anda dapat mulai trading dengan deposit minimal $100 di platform kami."
+    },
+    {
+        "timestamp": "2025-04-03T03:54:50.570063",
+        "type": "incoming",
+        "content": "Saya udah tf tapi belum di proses"
+    },
+    {
+        "timestamp": "2025-04-03T03:54:54.696835",
+        "type": "outgoing",
+        "content": "Maaf atas ketidaknyamanan Anda. Saya akan segera cek status transfer Anda."
+    },
+    {
+        "timestamp": "2025-04-03T03:55:06.655032",
+        "type": "incoming",
+        "content": "Baik"
+    },
+    {
+        "timestamp": "2025-04-03T03:55:10.896890",
+        "type": "outgoing",
+        "content": "Saya akan segera memeriksa status transfer Anda untuk memastikan semuanya berjalan lancar."
+    }
+]

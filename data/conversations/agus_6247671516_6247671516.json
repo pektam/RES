@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-04-03T03:56:41.409450",
+        "type": "incoming",
+        "content": "Apa aja pilihan investasi di jtrade?"
+    },
+    {
+        "timestamp": "2025-04-03T03:56:46.117866",
+        "type": "outgoing",
+        "content": "Anda dapat melakukan perdagangan saham dengan komisi terendah di pasar atau melakukan investasi reksa dana tanpa biaya pembelian melalui JTRADE."
+    },
+    {
+        "timestamp": "2025-04-03T03:56:50.545430",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:56:54.704027",
+        "type": "outgoing",
+        "content": "Minimal deposit di JTRADE adalah Rp 5 juta."
+    },
+    {
+        "timestamp": "2025-04-03T03:56:57.327952",
+        "type": "incoming",
+        "content": "Saya udah tf tapi belum di proses"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:01.609747",
+        "type": "outgoing",
+        "content": "Mohon maaf atas ketidaknyamanannya. Sistem kami akan segera memproses transfer Anda."
+    }
+]

@@ -1,0 +1,153 @@
+{
+    "interactions": [
+        {
+            "timestamp": "2025-04-03T03:53:12.135918",
+            "type": "incoming",
+            "content_length": 9,
+            "intent": {
+                "greeting": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:53:16.546205",
+            "type": "outgoing",
+            "content_length": 44,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:53:36.987406",
+            "type": "incoming",
+            "content_length": 47,
+            "intent": {
+                "inquiry_product": 1,
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:53:41.128110",
+            "type": "outgoing",
+            "content_length": 164,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:53:49.747173",
+            "type": "incoming",
+            "content_length": 19,
+            "intent": {
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:53:53.810825",
+            "type": "outgoing",
+            "content_length": 80,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:54:18.593463",
+            "type": "incoming",
+            "content_length": 23,
+            "intent": {
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:54:22.624244",
+            "type": "outgoing",
+            "content_length": 111,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:54:50.558043",
+            "type": "incoming",
+            "content_length": 33,
+            "intent": {
+                "inquiry_process": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:54:54.685817",
+            "type": "outgoing",
+            "content_length": 74,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:55:06.645488",
+            "type": "incoming",
+            "content_length": 4,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:55:10.884905",
+            "type": "outgoing",
+            "content_length": 90,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:58:34.704802",
+            "type": "incoming",
+            "content_length": 33,
+            "intent": {
+                "inquiry_process": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:43.128832",
+            "type": "outgoing",
+            "content_length": 100,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:58:49.414981",
+            "type": "incoming",
+            "content_length": 96,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:53.137514",
+            "type": "incoming",
+            "content_length": 92,
+            "intent": {
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:55.634304",
+            "type": "incoming",
+            "content_length": 84,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:59:07.367513",
+            "type": "outgoing",
+            "content_length": 74,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:59:09.276268",
+            "type": "outgoing",
+            "content_length": 90,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:59:11.288947",
+            "type": "outgoing",
+            "content_length": 62,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:59:12.229044",
+            "type": "incoming",
+            "content_length": 110,
+            "intent": {
+                "general": 1
+            }
+        }
+    ]
+}

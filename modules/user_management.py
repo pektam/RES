@@ -539,8 +539,8 @@ class UserManager:
             }
         
         except Exception as e:
-    logger.error(f"Error getting user stats: {str(e)}")
-    return {
-        "error": str(e),
-        "timestamp": datetime.datetime.now().isoformat()
-    }
+            logger.error(f"Error getting user stats: {str(e)}")
+            return {
+                "error": str(e),
+                "timestamp": datetime.datetime.now().isoformat()
+            }

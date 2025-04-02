@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-04-03T03:55:43.391573",
+        "type": "incoming",
+        "content": "Apa aja pilihan investasi di jtrade?"
+    },
+    {
+        "timestamp": "2025-04-03T03:55:48.498084",
+        "type": "outgoing",
+        "content": "Di JTRADE, Anda dapat melakukan perdagangan saham dengan komisi terendah di pasar atau berinvestasi dalam reksa dana tanpa biaya pembelian. Informasi lebih lanjut akan disediakan oleh RAG Engine."
+    },
+    {
+        "timestamp": "2025-04-03T03:56:06.182686",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:56:10.437910",
+        "type": "outgoing",
+        "content": "Untuk informasi lebih lanjut mengenai minimal deposit, Anda dapat langsung mengakses RAG Engine kami."
+    },
+    {
+        "timestamp": "2025-04-03T03:56:15.465176",
+        "type": "incoming",
+        "content": "Saya udah tf tapi belum di proses"
+    },
+    {
+        "timestamp": "2025-04-03T03:56:19.985435",
+        "type": "outgoing",
+        "content": "Mohon maaf atas ketidaknyamanan ini. Silakan berikan nomor transaksi Anda agar kami dapat segera memeriksanya untuk Anda."
+    }
+]

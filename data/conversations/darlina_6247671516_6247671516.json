@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2025-04-03T03:57:24.227592",
+        "type": "incoming",
+        "content": "Apa aja pilihan investasi di jtrade?"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:29.191525",
+        "type": "outgoing",
+        "content": "Di JTRADE, Anda bisa melakukan stock trading dengan komisi terendah di pasar dan juga investasi reksa dana tanpa biaya pembelian. Informasi lebih lanjut bisa diperoleh dari RAG Engine."
+    },
+    {
+        "timestamp": "2025-04-03T03:57:31.156603",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:35.178073",
+        "type": "outgoing",
+        "content": "Minimal deposit di JTRADE adalah $1000 untuk membuka rekening investasi."
+    },
+    {
+        "timestamp": "2025-04-03T03:57:38.137626",
+        "type": "incoming",
+        "content": "Saya udah tf tapi belum di proses"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:42.245155",
+        "type": "outgoing",
+        "content": "Mohon maaf atas kendalanya. Bisa saya minta nomor transaksi atau detail lainnya untuk saya cek?"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:56.753550",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:58:00.848350",
+        "type": "outgoing",
+        "content": "Minimal deposit di JTRADE adalah $100."
+    }
+]

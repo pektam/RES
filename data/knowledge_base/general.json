@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "created_at": "2025-04-03T03:49:31.640728",
+        "sources": [
+            "products",
+            "faq",
+            "company_info"
+        ],
+        "version": "1.0"
+    },
+    "products": {
+        "stock_trading": {
+            "description": "Perdagangan saham dengan komisi terendah di pasar",
+            "features": [
+                "Real-time quotes",
+                "Advanced charting",
+                "Research reports"
+            ],
+            "minimum_deposit": "Rp 1.000.000",
+            "fees": "0.1% per transaksi, minimum Rp 10.000"
+        },
+        "mutual_funds": {
+            "description": "Investasi reksa dana tanpa biaya pembelian",
+            "features": [
+                "Seleksi reksa dana terbaik",
+                "Analisis kinerja mendalam"
+            ],
+            "minimum_investment": "Rp 500.000",
+            "fees": "0% biaya pembelian, 0.5-2% biaya pengelolaan tahunan"
+        },
+        "bonds": {
+            "description": "Investasi obligasi pemerintah dan korporasi",
+            "features": [
+                "Yield kompetitif",
+                "Analisis credit rating"
+            ],
+            "minimum_investment": "Rp 1.000.000",
+            "fees": "0.1% biaya transaksi"
+        }
+    },
+    "faq": [
+        {
+            "question": "Berapa minimum deposit di JTRADE?",
+            "answer": "Minimum deposit di JTRADE adalah Rp 1.000.000 untuk membuka akun reguler."
+        },
+        {
+            "question": "Bagaimana cara membuka akun di JTRADE?",
+            "answer": "Membuka akun di JTRADE sangat mudah. Anda cukup mengunduh aplikasi kami, melengkapi formulir pendaftaran online, dan mengunggah dokumen identitas."
+        },
+        {
+            "question": "Apa saja biaya transaksi di JTRADE?",
+            "answer": "JTRADE menawarkan biaya transaksi terendah di industri, mulai dari 0.1% untuk transaksi saham dan gratis untuk pembelian reksa dana."
+        },
+        {
+            "question": "Apakah JTRADE menyediakan analisis pasar?",
+            "answer": "Ya, JTRADE menyediakan analisis pasar komprehensif, termasuk laporan riset, grafik teknikal, dan rekomendasi saham."
+        }
+    ],
+    "company_info": {
+        "name": "JTRADE",
+        "description": "Platform investasi modern yang fokus pada pengalaman investor",
+        "founded": "2020",
+        "headquarters": "Jakarta, Indonesia",
+        "unique_selling_points": [
+            "Biaya transaksi terendah di industri",
+            "Eksekusi order tercepat",
+            "Analisis pasar real-time",
+            "Layanan personal oleh financial advisor berpengalaman"
+        ],
+        "contact": {
+            "email": "info@jtrade.id",
+            "phone": "+6221123456",
+            "address": "Jl. Sudirman No. 123, Jakarta Pusat"
+        }
+    }
+}

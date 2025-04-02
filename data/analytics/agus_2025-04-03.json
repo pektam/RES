@@ -1,0 +1,111 @@
+{
+    "interactions": [
+        {
+            "timestamp": "2025-04-03T03:56:41.407437",
+            "type": "incoming",
+            "content_length": 36,
+            "intent": {
+                "inquiry_product": 1,
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:56:46.104791",
+            "type": "outgoing",
+            "content_length": 144,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:56:50.535432",
+            "type": "incoming",
+            "content_length": 23,
+            "intent": {
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:56:54.696040",
+            "type": "outgoing",
+            "content_length": 43,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:56:57.317912",
+            "type": "incoming",
+            "content_length": 33,
+            "intent": {
+                "inquiry_process": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:57:01.598331",
+            "type": "outgoing",
+            "content_length": 84,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:58:33.449814",
+            "type": "incoming",
+            "content_length": 33,
+            "intent": {
+                "inquiry_process": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:41.856719",
+            "type": "outgoing",
+            "content_length": 110,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:58:50.664188",
+            "type": "incoming",
+            "content_length": 84,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:54.378776",
+            "type": "incoming",
+            "content_length": 96,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:58:56.867683",
+            "type": "incoming",
+            "content_length": 92,
+            "intent": {
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:59:06.555195",
+            "type": "outgoing",
+            "content_length": 80,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:59:12.215691",
+            "type": "outgoing",
+            "content_length": 61,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T03:59:13.455199",
+            "type": "incoming",
+            "content_length": 100,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T03:59:19.426764",
+            "type": "outgoing",
+            "content_length": 82,
+            "intent": null
+        }
+    ]
+}

@@ -102,6 +102,9 @@ async def handle_admin_command(event, client):
         return False
 
     message = event.message.text
+    
+    # Inisialisasi global rag_engine
+    global rag_engine
 
     if message.startswith("/stats"):
         parts = message.split()
@@ -135,7 +138,6 @@ async def handle_admin_command(event, client):
         await client.send_message(event.chat_id, "🔍 Mengindeks knowledge base...")
         
         # Inisialisasi dan indeks RAG Engine
-        global rag_engine
         if not rag_engine:
             rag_engine = RAGEngine()
         
@@ -151,7 +153,6 @@ async def handle_admin_command(event, client):
             return True
             
         # Inisialisasi RAG Engine jika belum
-        global rag_engine
         if not rag_engine:
             rag_engine = RAGEngine()
             

@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-04-03T03:57:47.789130",
+        "type": "incoming",
+        "content": "Apa aja pilihan investasi di jtrade?"
+    },
+    {
+        "timestamp": "2025-04-03T03:57:52.527015",
+        "type": "outgoing",
+        "content": "Di JTRADE, Anda dapat melakukan stock trading dengan komisi terendah di pasar dan investasi reksa dana tanpa biaya pembelian. Informasi lebih lanjut akan disediakan oleh RAG Engine."
+    },
+    {
+        "timestamp": "2025-04-03T03:58:07.036313",
+        "type": "incoming",
+        "content": "Berapa minimal deposit?"
+    },
+    {
+        "timestamp": "2025-04-03T03:58:10.996787",
+        "type": "outgoing",
+        "content": "Anda dapat membuka akun dengan minimal deposit Rp 1 juta di JTRADE."
+    },
+    {
+        "timestamp": "2025-04-03T03:58:15.479420",
+        "type": "incoming",
+        "content": "Saya udah tf tapi belum di proses"
+    },
+    {
+        "timestamp": "2025-04-03T03:58:19.586227",
+        "type": "outgoing",
+        "content": "Maaf atas ketidaknyamanan ini. Saya akan segera memeriksa status transfer Anda untuk diproses."
+    }
+]

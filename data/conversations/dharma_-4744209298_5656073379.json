@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2025-04-03T03:58:53.156038",
+        "type": "incoming",
+        "content": "Maaf atas ketidaknyamanannya, boleh saya minta nomor transaksi transfer Anda untuk saya cek?"
+    },
+    {
+        "timestamp": "2025-04-03T03:59:09.286264",
+        "type": "outgoing",
+        "content": "Tentu, silakan berikan nomor transaksi transfer Anda agar saya bisa membantu memeriksanya."
+    }
+]
