@@ -1,0 +1,37 @@
+[
+    {
+        "username": "fahrul",
+        "phone": "+6281230673297",
+        "api_id": "23384890",
+        "api_hash": "861be1ee7e89f8a76c5556b49daf3f5a",
+        "password_2fa": "Dgvt61zwe@"
+    },
+    {
+        "username": "darlina",
+        "phone": "+62895370390811",
+        "api_id": "23560271",
+        "api_hash": "8f8da793cfad158e1f426d2eff3622a6",
+        "password_2fa": "Dgvt61zwe@"
+    },
+    {
+        "username": "agus",
+        "phone": "+62895605258555",
+        "api_id": "24245084",
+        "api_hash": "ad3c79885fcc89f007b6be47c3627d4d",
+        "password_2fa": "Dgvt61zwe@"
+    },
+    {
+        "username": "mikhayla",
+        "phone": "+62895605258400",
+        "api_id": "28974265",
+        "api_hash": "32edde9d626396cc5c4a96c0d127b22a",
+        "password_2fa": "Dgvt61zwe@"
+    },
+    {
+        "username": "dharma",
+        "phone": "+6281523905156",
+        "api_id": "26111503",
+        "api_hash": "d490b1d8af1146f4948df573d3e74791",
+        "password_2fa": "Dgvt61zwe@"
+    }
+]
