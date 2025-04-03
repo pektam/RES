@@ -240,6 +240,148 @@
             "type": "outgoing",
             "content_length": 267,
             "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:54:23.376280",
+            "type": "incoming",
+            "content_length": 29,
+            "intent": {
+                "inquiry_product": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:54:29.243617",
+            "type": "outgoing",
+            "content_length": 252,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:54:29.252616",
+            "type": "outgoing",
+            "content_length": 45,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:55:01.385299",
+            "type": "incoming",
+            "content_length": 30,
+            "intent": {
+                "general": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:55:06.488741",
+            "type": "outgoing",
+            "content_length": 245,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:55:06.499820",
+            "type": "outgoing",
+            "content_length": 54,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:57:11.454798",
+            "type": "incoming",
+            "content_length": 26,
+            "intent": {
+                "inquiry_registration": 1,
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:57:16.573827",
+            "type": "outgoing",
+            "content_length": 186,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:57:16.584238",
+            "type": "outgoing",
+            "content_length": 27,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:57:58.503375",
+            "type": "incoming",
+            "content_length": 42,
+            "intent": {
+                "inquiry_product": 1,
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:58:03.508362",
+            "type": "outgoing",
+            "content_length": 179,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:03.520862",
+            "type": "outgoing",
+            "content_length": 93,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:08.139955",
+            "type": "incoming",
+            "content_length": 21,
+            "intent": {
+                "inquiry_registration": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:58:13.789981",
+            "type": "outgoing",
+            "content_length": 215,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:13.800973",
+            "type": "outgoing",
+            "content_length": 86,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:22.933871",
+            "type": "incoming",
+            "content_length": 41,
+            "intent": {
+                "inquiry_registration": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:58:28.538298",
+            "type": "outgoing",
+            "content_length": 259,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:28.549297",
+            "type": "outgoing",
+            "content_length": 87,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:41.941207",
+            "type": "incoming",
+            "content_length": 23,
+            "intent": {
+                "gratitude": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:58:46.949125",
+            "type": "outgoing",
+            "content_length": 84,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:46.961118",
+            "type": "outgoing",
+            "content_length": 74,
+            "intent": null
         }
     ]
 }

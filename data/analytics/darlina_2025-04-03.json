@@ -196,6 +196,87 @@
             "type": "outgoing",
             "content_length": 177,
             "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:58:58.671799",
+            "type": "incoming",
+            "content_length": 26,
+            "intent": {
+                "inquiry_registration": 1,
+                "question": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:59:03.750537",
+            "type": "outgoing",
+            "content_length": 143,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:59:03.764523",
+            "type": "outgoing",
+            "content_length": 27,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:59:42.065929",
+            "type": "incoming",
+            "content_length": 35,
+            "intent": {
+                "inquiry_product": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T16:59:46.970082",
+            "type": "outgoing",
+            "content_length": 154,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T16:59:46.990045",
+            "type": "outgoing",
+            "content_length": 93,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T17:00:10.250375",
+            "type": "incoming",
+            "content_length": 21,
+            "intent": {
+                "inquiry_registration": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T17:00:17.263471",
+            "type": "outgoing",
+            "content_length": 166,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T17:00:17.276566",
+            "type": "outgoing",
+            "content_length": 123,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T17:00:29.799236",
+            "type": "incoming",
+            "content_length": 41,
+            "intent": {
+                "inquiry_registration": 1
+            }
+        },
+        {
+            "timestamp": "2025-04-03T17:00:40.212714",
+            "type": "outgoing",
+            "content_length": 267,
+            "intent": null
+        },
+        {
+            "timestamp": "2025-04-03T17:00:40.225879",
+            "type": "outgoing",
+            "content_length": 86,
+            "intent": null
         }
     ]
 }

@@ -80,9 +80,10 @@ def main():
         print("1. Login ke semua akun")
         print("2. Tambah akun baru")
         print("3. Lihat daftar akun")
-        print("4. Keluar")
+        print("4. Pengaturan Gaya Bicara") # Menu baru
+        print("5. Keluar")
 
-        choice = input("Pilih menu (1-4): ")
+        choice = input("Pilih menu (1-5): ")
 
         if choice == '1':
             if not accounts:
@@ -135,11 +136,34 @@ def main():
                     print(f"{i}. {account['username']} - {account['phone']}")
 
         elif choice == '4':
+            print("\n=== Pengaturan Gaya Bicara ===")
+            print("1. Aktifkan Regenerasi Natural (Lebih Kasual)")
+            print("2. Mode Normal (Formal)")
+            print("3. Kembali")
+            
+            style_choice = input("Pilih pengaturan (1-3): ")
+            
+            if style_choice == '1':
+                # Simpan pengaturan ke file konfigurasi
+                with open('.env', 'a') as f:
+                    f.write("NATURAL_REGENERATION=True\n")
+                print("Regenerasi natural diaktifkan! Respons akan terdengar lebih kasual dan mirip manusia.")
+                
+            elif style_choice == '2':
+                # Simpan pengaturan ke file konfigurasi
+                with open('.env', 'a') as f:
+                    f.write("NATURAL_REGENERATION=False\n")
+                print("Mode normal diaktifkan. Respons akan menggunakan format standar.")
+                
+            else:
+                continue
+
+        elif choice == '5':
             print("Terima kasih telah menggunakan program ini.")
             break
 
         else:
-            print("Pilihan tidak valid. Silakan pilih 1-4.")
+            print("Pilihan tidak valid. Silakan pilih 1-5.")
 
 if __name__ == "__main__":
     main()

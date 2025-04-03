@@ -10,6 +10,7 @@ import os
 import json
 import asyncio
 import datetime
+from modules.response_regenerator import ResponseRegenerator
 from telethon import TelegramClient, events
 from telethon.tl.functions.messages import SetTypingRequest
 from telethon.tl.types import SendMessageTypingAction
@@ -30,6 +31,9 @@ if not os.path.exists("modules"):
 # Konstanta
 ACCOUNTS_FILE = 'accounts/telegram_accounts.json'
 ADMIN_ID = 6249036163  # ID admin/pemilik
+
+# Inisialisasi class
+regenerator = ResponseRegenerator()
 
 # Inisialisasi RAG Engine di awal
 rag_engine = None
@@ -92,6 +96,14 @@ async def handle_incoming_message(event, client, username):
     response = generate_response(prompt, api_key)
     log_interaction(username, "outgoing", response)
     save_conversation(username, chat_id, sender.id, "outgoing", response)
+    
+    # TAMBAHKAN BAGIAN INI
+    # Regenerasi respon menjadi lebih natural
+    natural_response = regenerator.regenerate(response, message, username)
+    
+    # Gunakan natural_response sebagai respons
+    log_interaction(username, "outgoing", natural_response)
+    save_conversation(username, chat_id, sender.id, "outgoing", natural_response)
     
     # Kirim respons
     await client.send_message(chat_id, response)
